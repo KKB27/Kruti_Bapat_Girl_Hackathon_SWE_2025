@@ -4,6 +4,12 @@ Welcome to Sushrut!
 An AI-powered web app that predicts diseases from uploaded X-ray images.
 Uses flask, tensorflow and open-cv
 
+Unfortunately the file size is too large and hence I am linking the drive link to the code: 
+
+https://drive.google.com/file/d/1qMEFbBIjqgkIACy8Sujf_IQPNqP0zZ9S/view?usp=drive_link
+
+Download and extrtact from the zip file, add all these files to a folder and then follow further instructions.
+
 ## 🚀 Features
 -> Upload an X-ray image  
 -> AI-based disease prediction  
