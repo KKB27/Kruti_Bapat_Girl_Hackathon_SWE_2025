@@ -10,15 +10,20 @@ Uses flask, tensorflow and open-cv
 -> Confidence score displayed  
 
 ## How to use?
-After downloading all the files, create a virtual environment:
+After downloading all the files
+ **Create a virtual environment:**
+
   🖥️ Windows (CMD / PowerShell)
   py -m venv myenv
   myenv\Scripts\activate
-    or
+
+
   🍏 macOS / Linux
   python3 -m venv myenv
   source myenv/bin/activate
-3️⃣ Install Dependencies
+
+  
+**Install Dependencies**
 pip install -r requirements.txt
 
 Run using: python app.py or py app.py
