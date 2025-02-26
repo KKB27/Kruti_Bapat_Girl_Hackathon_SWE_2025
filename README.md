@@ -31,7 +31,14 @@ After downloading all the files
 
 pip install -r requirements.txt
 
-Run using: python app.py or py app.py
+Run using: 
+```
+python app.py
+```
+ or 
+ ```
+ py app.py
+```
 
 Open http://127.0.0.1:5000/ in your browser
 
