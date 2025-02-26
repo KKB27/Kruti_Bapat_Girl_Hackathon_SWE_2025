@@ -14,16 +14,16 @@ After downloading all the files
  **Create a virtual environment:**
 
   **🖥️ Windows (CMD / PowerShell**
-
+  
+  ```sh
   py -m venv myenv
-
   myenv\Scripts\activate
 
 
   **🍏 macOS / Linux**
-  
+
+  ```sh
   python3 -m venv myenv
-  
   source myenv/bin/activate
 
   
