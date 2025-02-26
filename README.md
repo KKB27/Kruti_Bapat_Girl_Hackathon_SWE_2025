@@ -15,17 +15,17 @@ After downloading all the files
 
   **🖥️ Windows (CMD / PowerShell**
   
-  ```sh
+  ```
   py -m venv myenv
   myenv\Scripts\activate
-
+ ```
 
   **🍏 macOS / Linux**
 
-  ```sh
+  ```
   python3 -m venv myenv
   source myenv/bin/activate
-
+```
   
 **Install Dependencies**
 
