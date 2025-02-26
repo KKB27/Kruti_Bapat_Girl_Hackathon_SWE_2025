@@ -13,17 +13,22 @@ Uses flask, tensorflow and open-cv
 After downloading all the files
  **Create a virtual environment:**
 
-  🖥️ Windows (CMD / PowerShell)
+  **🖥️ Windows (CMD / PowerShell**
+
   py -m venv myenv
+
   myenv\Scripts\activate
 
 
-  🍏 macOS / Linux
+  **🍏 macOS / Linux**
+  
   python3 -m venv myenv
+  
   source myenv/bin/activate
 
   
 **Install Dependencies**
+
 pip install -r requirements.txt
 
 Run using: python app.py or py app.py
@@ -31,6 +36,7 @@ Run using: python app.py or py app.py
 Open http://127.0.0.1:5000/ in your browser
 
 ### 1️⃣ Clone this repository
+
 ```sh
 git clone https://github.com/your-username/xray-classification.git
 cd xray-classification
